@@ -5,8 +5,8 @@ import{
   Route,
   Navigate,
 }from "react-router-dom";
-import Signup from './pages/auth/signup';
-import Login from './pages/auth/login';
+import Signup from './pages/auth/Signup';
+import Login from './pages/auth/Login';
 import Home from './pages/Dashboard/Home';
 import Expense from './pages/Dashboard/Expense';
 import Income from './pages/Dashboard/Income';
