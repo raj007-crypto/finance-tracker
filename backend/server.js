@@ -12,7 +12,7 @@ app.use(
     cors({
         origin: [
             "http://localhost:5173", // Your local frontend
-            "https://your-frontend-project.vercel.app" // Your future deployed URL
+            "https://finance-tracker-seven-jade.vercel.app" // Your future deployed URL
         ],
         methods: ["GET", "POST", "PUT", "DELETE"],
         allowedHeaders: ["Content-Type", "Authorization"],
